@@ -20,7 +20,8 @@ the lesson.
 Now that you've learned about Git version control, in this lab, we're going to
 go through the entire process of creating a local Git repository, creating an
 initial commit and pushing that work to a remote repo stored on
-[GitHub][github].
+[GitHub][github]. 
+
 
 **NOTE:** If you are new to using Learn.co and this is your first lab, welcome!
 This lesson will include all the steps necessary to submit your lab work to Learn.co.
